@@ -1,2 +1,2 @@
 # Battery-charge
-Aniamtion of Battery Charge
+Animation of Battery Charge
